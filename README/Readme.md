@@ -41,7 +41,7 @@ The goal is to identify patterns, correlations, and potential trading signals th
 ## **6. How to View**  
 - **Colab Notebooks:**  
   - [Notebook 1 Data Preprocessing & EDA] https://colab.research.google.com/drive/11hClkeCBC1bIKMWMSQiDX-HvpMX0XYg5?usp=sharing
-  - [Notebook 2 Analysis & Insights] https://colab.research.google.com/drive/1Zyb0-OmNvxvsESXv8dwcOb6EqYjlr7Dg?usp=sharing
+  - [Notebook 2 Analysis & Insights] https://colab.research.google.com/drive/11hClkeCBC1bIKMWMSQiDX-HvpMX0XYg5?usp=sharing
   - csv_files
 - Open **`ds_report.pdf`** for final summarized insights.  
 - View PNGs in the **`outputs/`** folder for visual analysis.  
